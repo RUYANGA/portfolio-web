@@ -7,7 +7,7 @@ const About: React.FC = () => {
   
   const keyPoints = [
     'Backend development specialist with focus on RESTful APIs',
-    'Experience with Node.js, Express, and MongoDB',
+    'Experience with Node.js, Express,TypeScript,PostgreSQL and MongoDB',
     'Skilled in application architecture and database design',
     'Committed to writing clean, maintainable, and well-tested code'
   ];

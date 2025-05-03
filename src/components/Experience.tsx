@@ -16,21 +16,21 @@ const Experience: React.FC = () => {
   const jobs: Job[] = [
     {
       title: "Junior Backend Developer",
-      company: "XYZ Tech Solutions",
+      company: "VIPI Transiport",
       period: "Sept 2022 - Present",
       location: "Kigali, Rwanda",
       responsibilities: [
         "Developing and maintaining RESTful APIs using Node.js and Express",
-        "Designing and optimizing database schemas in MongoDB",
+        "Designing and optimizing database schemas in MongoDB and PostgreSQL",
         "Collaborating with frontend developers to integrate backend services",
-        "Implementing authentication and authorization using JWT",
+        "Implementing authentication and authorization using JWT and Session",
         "Writing comprehensive unit and integration tests",
         "Participating in code reviews and providing constructive feedback"
       ]
     },
     {
       title: "Backend Development Intern",
-      company: "ABC Software Company",
+      company: "Binary Hub",
       period: "Jan 2022 - Aug 2022",
       location: "Kigali, Rwanda",
       responsibilities: [
