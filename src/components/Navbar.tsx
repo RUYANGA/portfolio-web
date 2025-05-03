@@ -60,8 +60,8 @@ const Navbar: React.FC<NavbarProps> = ({ scrollY, isDark, toggleTheme }) => {
     }`}>
       <div className="container mx-auto px-4 lg:px-8 flex justify-between items-center">
         <a href="#home" className="text-2xl font-bold text-blue-600 flex items-center">
-          Ruyanga
-          <span className="text-gray-900 dark:text-gray-100 font-light ml-1">Merci</span>
+          Merci
+          <span className="text-gray-900 dark:text-gray-100 font-light ml-1">RUYANGA</span>
         </a>
         
         <nav className="hidden md:flex items-center space-x-6">
