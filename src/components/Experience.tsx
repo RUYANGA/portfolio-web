@@ -17,7 +17,7 @@ const Experience: React.FC = () => {
     {
       title: "Junior Backend Developer",
       company: "VIPI Transiport",
-      period: "Sept 2022 - Present",
+      period: "Sept 2022 - 2023",
       location: "Kigali, Rwanda",
       responsibilities: [
         "Developing and maintaining RESTful APIs using Node.js and Express",
