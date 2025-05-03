@@ -31,7 +31,7 @@ const Experience: React.FC = () => {
     {
       title: "Backend Development Intern",
       company: "Binary Hub",
-      period: "Jan 2022 - Aug 2022",
+      period: "Jan 2024 - Aug 2025",
       location: "Kigali, Rwanda",
       responsibilities: [
         "Assisted in developing API endpoints using Node.js and Express",
