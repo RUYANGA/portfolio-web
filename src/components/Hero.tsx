@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <p className="text-blue-600 font-medium mb-2 opacity-0 animate-fade-in">Hello, I'm</p>
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-4 text-gray-900 opacity-0 animate-slide-up">
-            Ruyanga Merci
+          Merci RUYANGA
           </h1>
           <h2 className="text-2xl md:text-4xl font-light text-gray-700 mb-8 h-10">
             <span className="relative">
