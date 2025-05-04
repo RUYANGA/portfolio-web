@@ -23,7 +23,7 @@ const Education: React.FC = () => {
     {
       degree: "Bachelor of Science in Computer Science",
       institution: "University of Rwanda",
-      period: "2023",
+      period: "",
       description: "Graduated with honors, specializing in software engineering. Completed coursework in data structures, algorithms, database systems, and web development."
     }
   ];
