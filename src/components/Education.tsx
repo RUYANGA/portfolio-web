@@ -30,10 +30,10 @@ const Education: React.FC = () => {
 
   const certifications: Certification[] = [
     {
-      name: "Node.js Developer Certification",
-      issuer: "OpenJS Foundation",
+      name: "Legacy JavaScript Algorithms and Data Structures",
+      issuer: "Legacy JavaScript Algorithms and Data Structures refers to implementing classical data structures and algorithms using pre-ES6 JavaScript (i.e., before features like class, let, const, arrow functions, etc.).",
       date: "May 2023",
-      credentialLink: "#"
+      credentialLink: "https://www.freecodecamp.org/certification/fcc45215ff5-43ea-4b51-9a74-5a71825de1a8/javascript-algorithms-and-data-structures"
     },
     {
       name: "MongoDB Certified Developer",
