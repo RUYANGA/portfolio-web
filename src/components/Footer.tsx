@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <a href="#home" className="text-2xl font-bold text-white">
-              Ruyanga<span className="text-blue-400 font-light">Merci</span>
+              Merci<span className="text-blue-400 font-light">RUYANGA</span>
             </a>
             <p className="mt-2 text-gray-400 max-w-md">
               Backend developer focused on creating efficient and scalable solutions
@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
             </button>
             
             <p className="text-gray-400 text-sm flex items-center">
-              © {currentYear} Made with <Heart size={14} className="mx-1 text-red-500" /> by Ruyanga Merci
+              © {currentYear} Made with <Heart size={14} className="mx-1 text-red-500" /> by Merci RUYANGA
             </p>
           </div>
         </div>
@@ -96,7 +96,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-3">Technologies</h3>
             <ul className="space-y-2">
-              {['Node.js', 'Express', 'MongoDB', 'TypeScript', 'RESTful APIs'].map((item) => (
+              {['Node.js', 'Express', 'MongoDB','PostgreSQL', 'TypeScript', 'RESTful APIs'].map((item) => (
                 <li key={item} className="text-gray-400">
                   {item}
                 </li>

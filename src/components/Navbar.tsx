@@ -85,9 +85,7 @@ const Navbar: React.FC<NavbarProps> = ({ scrollY, isDark, toggleTheme }) => {
             <a href="https://github.com/RUYANGA" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <GitHub size={20} />
             </a>
-            <a href="https://www.linkedin.com/in/ruyanga-merci-bab343307/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
-              <Linkedin size={20} />
-            </a>
+           
             <a href="mailto:ruyangam15@gmail.com" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <Mail size={20} />
             </a>
