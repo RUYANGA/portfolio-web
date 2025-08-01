@@ -37,15 +37,15 @@ const Education: React.FC = () => {
     },
     {
       name: "Pro JavaScript Backend Developer",
-      issuer: "MongoDB Inc.",
+      issuer: "Experienced backend developer specializing in JavaScript and TypeScript, with deep knowledge of Node.js and its ecosystems such as Express.js and NestJS. Skilled in building scalable, secure, and high-performance RESTful APIs and microservices. Proficient in database integration with PostgreSQL and MongoDB, writing clean, maintainable, and well-tested code. Adept at architecting server-side applications, optimizing backend workflows, and ensuring seamless communication with frontend clients.",
       date: "Oct 2024",
-      credentialLink: "#"
+      credentialLink: "https://www.udemy.com/certificate/UC-bf13b9b1-7dd3-4dc6-89bf-9d417e7afc71/"
     },
     {
       name: "AI Career Essentials",
-      issuer: "Amazon Web Services",
+      issuer: "Core skills for leveraging AI models effectively through precise and creative prompt design. Expertise in crafting clear, context-rich prompts to guide language models (like GPT) towards accurate, relevant, and useful outputs. Understanding prompt structures, iterative refinement, and context management to optimize AI responses for various applications such as chatbots, content generation, and data analysis. Emphasizes continual learning and experimentation to harness the full potential of AI-driven tools.",
       date: "Aug 2024",
-      credentialLink: "#"
+      credentialLink: "https://savanna.alxafrica.com/certificates/5LspmcrB32"
     }
   ];
 

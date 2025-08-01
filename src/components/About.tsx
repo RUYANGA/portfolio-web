@@ -5,12 +5,13 @@ import profileImageUrl from '../../.bolt/WhatsApp Image 2025-05-03 at 18.43.22.j
 const About: React.FC = () => {
 
   
-  const keyPoints = [
-    'Backend development specialist with focus on RESTful APIs',
-    'Experience with Node.js, Express,TypeScript,PostgreSQL and MongoDB',
-    'Skilled in application architecture and database design',
-    'Committed to writing clean, maintainable, and well-tested code'
-  ];
+const keyPoints = [
+  'Full stack development expertise with strong backend focus on RESTful APIs',
+  'Experience with Node.js,Nest.js, Express, TypeScript, PostgreSQL, MongoDB, React, and Next.js',
+  'Skilled in application architecture, database design, and responsive UI development',
+  'Committed to writing clean, maintainable, and well-tested code across the stack'
+];
+
 
   return (
     <section id="about" className="py-20 bg-white">
@@ -59,10 +60,7 @@ const About: React.FC = () => {
             <div className="md:w-2/3">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Professional Summary</h3>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                I am a detail-oriented backend developer with a passion for creating robust, efficient, and 
-                scalable web applications. Experienced in designing APIs, optimizing database performance, 
-                and implementing security best practices. I thrive in collaborative environments where I can 
-                contribute my technical expertise to solve complex challenges and deliver high-quality solutions.
+               Full Stack Developer with 3+ years of hands-on experience in architecting, developing, and deploying robust web applications using modern frontend and backend technologies. Proficient in building clean, scalable RESTful and RPC-based APIs, designing efficient relational databases, and creating responsive, accessible user interfaces. Committed to writing maintainable, high-performance code and enhancing user experience through thoughtful design and cross-functional collaboration. Known for delivering end-to-end solutions that balance speed, scalability, and quality.
               </p>
               
               <div className="mb-8">
